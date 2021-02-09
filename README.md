@@ -1,6 +1,8 @@
 # django-url-shorter
 Simple Url Shorter using Django 3.
 
+![App Screenshot](https://i.paste.pics/745313ab15e1dd77627b592010ca7823.png)
+
 ## Running the Project Locally
 
 Install the requirements:
